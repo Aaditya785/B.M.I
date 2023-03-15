@@ -7,7 +7,7 @@ let height = document.getElementById('height');
 let heightinputmt = document.getElementById('heightinputmt');
 let heightinputcm = document.getElementById('heightinputcm');
 let heightinputft = document.getElementById('heightinputft');
-let heightinputin = document.getElementById('heightinputin');
+let heightinputin = document.getElementById('heightinputin');  
 // Other's
 let result = document.querySelector('.result');
 let form = document.querySelector('.form');
